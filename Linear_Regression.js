@@ -1,4 +1,4 @@
-
+import * as tf from '@tensorflow/tfjs';
 //
 // CV, tfjs, Linear Regression for eq. 3x + 1
 // 
